@@ -1,0 +1,3 @@
+==== Links
+
+include::{snippets}/delete-all/curl-request.adoc[]
